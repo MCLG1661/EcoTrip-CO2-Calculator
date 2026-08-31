@@ -48,7 +48,7 @@ A aplicação permite:
 
 ## 🌐 Live Demo
 
-[Explorar Eco Trip](https://mclg1661.github.io/Calculadora-de-Emissao-de-CO2/)
+[Explorar Eco Trip](https://mclg1661.github.io/EcoTrip-CO2-Calculator/)
 
 ---
 
@@ -149,7 +149,7 @@ Essa separação facilita manutenção e evolução do projeto.
 
 **HTML5** - Estrutura da aplicação
 
-*CSS3** - Interface e responsividade 
+**CSS3** - Interface e responsividade 
 
 **JavaScript** - Lógica e interatividade
 
@@ -188,13 +188,13 @@ EcoTrip/
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/MCLG1661/Calculadora-de-Emissao-de-CO2.git
+git clone https://github.com/MCLG1661/EcoTrip-CO2-Calculator.git
 ```
 
 2. Entre no diretório
 
 ```bash
-cd Calculadora-de-Emissao-de-CO2
+cd EcoTrip-CO2-Calculator
 ```
 
 3. Execute
